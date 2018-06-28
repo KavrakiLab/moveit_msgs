@@ -25,6 +25,8 @@ CostSource.msg
 ContactInformation.msg
 DisplayTrajectory.msg
 DisplayRobotState.msg
+GoalRegion.msg
+GoalRegionAxisRange.msg
 Grasp.msg
 GripperTranslation.msg
 JointConstraint.msg
