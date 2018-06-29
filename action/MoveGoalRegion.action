@@ -1,5 +1,5 @@
 # Motion planning request to pass to planner
-MotionRegionPlanRequest request
+MotionPlanRequest request
 
 # Planning options
 PlanningOptions planning_options

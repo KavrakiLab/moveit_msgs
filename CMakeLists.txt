@@ -25,6 +25,7 @@ CostSource.msg
 ContactInformation.msg
 DisplayTrajectory.msg
 DisplayRobotState.msg
+GoalRegions.msg
 GoalRegion.msg
 GoalRegionAxisRange.msg
 Grasp.msg
@@ -34,7 +35,6 @@ JointLimits.msg
 LinkPadding.msg
 LinkScale.msg
 MotionPlanRequest.msg
-MotionRegionPlanRequest.msg
 MotionPlanResponse.msg
 MotionPlanDetailedResponse.msg
 MoveItErrorCodes.msg
