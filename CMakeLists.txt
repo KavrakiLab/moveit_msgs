@@ -34,6 +34,7 @@ JointLimits.msg
 LinkPadding.msg
 LinkScale.msg
 MotionPlanRequest.msg
+MotionRegionPlanRequest.msg
 MotionPlanResponse.msg
 MotionPlanDetailedResponse.msg
 MoveItErrorCodes.msg
