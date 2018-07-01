@@ -25,7 +25,6 @@ CostSource.msg
 ContactInformation.msg
 DisplayTrajectory.msg
 DisplayRobotState.msg
-GoalRegions.msg
 GoalRegion.msg
 GoalRegionAxisRange.msg
 Grasp.msg
