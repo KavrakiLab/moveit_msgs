@@ -25,8 +25,6 @@ CostSource.msg
 ContactInformation.msg
 DisplayTrajectory.msg
 DisplayRobotState.msg
-GoalRegion.msg
-GoalRegionAxisRange.msg
 Grasp.msg
 GripperTranslation.msg
 JointConstraint.msg
@@ -52,6 +50,8 @@ PositionConstraint.msg
 RobotState.msg
 RobotTrajectory.msg
 VisibilityConstraint.msg
+WorkspaceGoalRegion.msg
+WorkspaceGoalRegionAxisRange.msg
 WorkspaceParameters.msg
 KinematicSolverInfo.msg
 PositionIKRequest.msg

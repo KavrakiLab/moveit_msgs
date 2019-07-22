@@ -44,4 +44,4 @@ float64 max_velocity_scaling_factor
 float64 max_acceleration_scaling_factor
 
 #Goal reagion
-GoalRegion[] goal_regions
+WorkspaceGoalRegion[] goal_regions

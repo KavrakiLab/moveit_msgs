@@ -1,0 +1,9 @@
+# This message contains information about the workspace goal region
+Header header
+
+moveit_msgs/WorkspaceGoalRegionAxisRange x
+moveit_msgs/WorkspaceGoalRegionAxisRange y
+moveit_msgs/WorkspaceGoalRegionAxisRange z
+moveit_msgs/WorkspaceGoalRegionAxisRange roll
+moveit_msgs/WorkspaceGoalRegionAxisRange pitch
+moveit_msgs/WorkspaceGoalRegionAxisRange yaw
