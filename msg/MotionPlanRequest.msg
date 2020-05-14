@@ -48,4 +48,4 @@ WorkspaceGoalRegion[] goal_regions
 string sort_roadmap_func_str
 
 # Transition Region
-moveit_msgs/TransitionRegion transition_region
+moveit_msgs/TransitionRegion transition_region #This is a set of point
