@@ -46,3 +46,6 @@ float64 max_acceleration_scaling_factor
 #Goal reagion
 WorkspaceGoalRegion[] goal_regions
 string sort_roadmap_func_str
+
+# Transition Region
+moveit_msgs/TransitionRegion transition_region

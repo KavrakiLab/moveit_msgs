@@ -52,6 +52,8 @@ RobotTrajectory.msg
 VisibilityConstraint.msg
 WorkspaceGoalRegion.msg
 WorkspaceGoalRegionAxisRange.msg
+TransitionPoint.msg
+TransitionRegion.msg
 WorkspaceParameters.msg
 KinematicSolverInfo.msg
 PositionIKRequest.msg
