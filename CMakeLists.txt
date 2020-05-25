@@ -11,7 +11,9 @@ set(MSG_DEPS
   object_recognition_msgs
   octomap_msgs)
 
-find_package(catkin REQUIRED genmsg ${MSG_DEPS})
+find_package(catkin REQUIRED 
+genmsg ${MSG_DEPS})
+
 
 set(MSG_FILES
 AllowedCollisionEntry.msg
@@ -54,6 +56,7 @@ WorkspaceGoalRegion.msg
 WorkspaceGoalRegionAxisRange.msg
 TransitionPoint.msg
 TransitionRegion.msg
+DMPSimulationInformation.msg
 WorkspaceParameters.msg
 KinematicSolverInfo.msg
 PositionIKRequest.msg

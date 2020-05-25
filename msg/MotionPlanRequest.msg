@@ -49,3 +49,6 @@ string sort_roadmap_func_str
 
 # Transition Region
 moveit_msgs/TransitionRegion transition_region #This is a set of point
+
+# DMP Stuff
+moveit_msgs/DMPSimulationInformation dmp_information
